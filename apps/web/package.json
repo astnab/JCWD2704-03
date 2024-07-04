@@ -19,7 +19,6 @@
     "chart.js": "^4.4.3",
     "cookies-next": "^4.2.1",
     "cross-env": "^7.0.3",
-    "daisyui": "^4.12.10",
     "dayjs": "^1.11.11",
     "flowbite": "^2.4.1",
     "flowbite-react": "^0.10.1",
@@ -35,7 +34,6 @@
     "react-redux": "^9.1.2",
     "redux": "^5.0.1",
     "sweetalert2": "^11.12.1",
-    "tailwindcss": "^3.4.4",
     "use-debounce": "^10.0.1",
     "yup": "^1.4.0",
     "yup-password": "^0.4.0"
@@ -44,9 +42,13 @@
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "autoprefixer": "^10.4.19",
     "cypress": "^13.6.2",
+    "daisyui": "^4.12.10",
     "eslint": "^8",
     "eslint-config-next": "14.0.4",
+    "postcss": "^8.4.39",
+    "tailwindcss": "^3.4.4",
     "typescript": "^5"
   }
 }
